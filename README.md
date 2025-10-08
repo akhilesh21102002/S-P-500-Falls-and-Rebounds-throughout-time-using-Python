@@ -1,1 +1,5 @@
-Used Python to chart the 10 worst falls of the S&P 500 throughout time and looked at returns for 1 year right after each fall. Visualized this using a bar chart and formatted the colour scheme as per the financial market theme.
+# S&P 500 Historical One-Day Drops Analysis
+
+This project analyzes the 10 worst one-day drops in the S&P 500 and examines the one-year returns following each event.
+
+Using Python and Matplotlib, the analysis shows that despite short-term market chaos, long-term recovery is common, highlighting the resilience of equity markets.
